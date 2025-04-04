@@ -8,7 +8,7 @@
 int main()
 {
     int limit;
-    int count=0;
+    int count=3;
     int i=0;
     int j=1;
     int k;
@@ -19,7 +19,6 @@ int main()
         if (i==0)
             i = i + j;
         else if (i==1)
-        
             i = i + j;
             k = i; 
     printf("Febonachin sequence is f(%d) is:%d\n",count,i=k+j);
