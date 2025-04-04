@@ -21,7 +21,7 @@ int main()
         else if (i==1)
             i = i + j;
             k = i; 
-    printf("Febonachin sequence is f(%d) is:%d\n",count,i=k+j);
+    printf("Fibonacci sequence is F(%d) is:%d\n",count,i=k+j);
     count++;
     j=k;
     k=i;
