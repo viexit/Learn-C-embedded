@@ -1,14 +1,14 @@
 This repo is a journey in Learning C.
 
-Books:
+
+Reasources:
+
+    +Books:
     - C Programming: A Modern Approach, 2nd Edition.
     - The C Programming Language – Kernighan & Ritchie.
 
-Online Resources:
-
     +Videos:
         - Bro Code Full Course (4 Hours).
-
 
     +Courses:
         - CS50x
@@ -16,4 +16,3 @@ Online Resources:
     +Sites/Platforms:
         - https://Linuxjourney.com/
         - https://missing.csail.mit.edu/
-        - 
